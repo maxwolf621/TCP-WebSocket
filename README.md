@@ -3,8 +3,6 @@
 # Chatroom Python 
 [TOC]
 
-[<font color=yellow>SOURCE CODE Here</font>](https://github.com/maxwolf621/Cnotz)
-
 > Reference ：　
 >- Tkinter GUI programming by example 
 >- 特洛伊木馬病毒程式設計(加強版)
