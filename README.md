@@ -29,7 +29,7 @@ OS : `Debian Version 10.4 , Raspberry Pi 4`
 
 ## Design Concept 
 
-1. Thread
+1. Thread   
 ![](https://i.imgur.com/oX0baiV.jpg)
 2. File Transfer 
     - Each transferring file with headers
