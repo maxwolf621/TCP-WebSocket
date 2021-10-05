@@ -1,7 +1,4 @@
-###### tags: `Project`
-
 # Chatroom Python 
-[TOC]
 
 > Reference ：　
 >- Tkinter GUI programming by example 
@@ -24,7 +21,6 @@ A Simple project of a GUI chat room.
 ## Development environment
 OS : `Debian Version 10.4 , Raspberry Pi 4`
 
-
 ## Design Concept 
 
 1. Thread   
@@ -33,13 +29,13 @@ OS : `Debian Version 10.4 , Raspberry Pi 4`
     - Each transferring file with headers
         - Each Header may contain some information 
             > (e.g. File Size, File Name, File Digest ..)
-    - There are two methods to send a file
-        - Send a file at one time    
+    - Methods to send a file
+        - Send a file without splitting into blocks
             - ![](https://i.imgur.com/20Ycqpc.png)
         - Split file to parts(blocks) if file is too large
             - ![](https://i.imgur.com/kw0ZHsC.png)
 4. GUI interface
-    - tkinter
+    - `tkinter`
 6. Transferring file will include md5 header
     - Using md5 to check if file have been tampered with
     ![](https://i.imgur.com/98eZgqs.png)
