@@ -1,4 +1,4 @@
-# Chatroom Python 
+# Python WebSocket Chatroom & File Transfering
 
 > Reference ：　
 >- Tkinter GUI programming by example 
